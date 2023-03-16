@@ -9,5 +9,5 @@
   <br>
 <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO%20COM%20SUCESSO&color=GREEN&style=for-the-badge"/><br>
   
-<a href="https://ingritedaiane.github.io/EBAC/" target_="blank"> Vizualize Clicando Aqui!</a>📌<br>
-<a href="https://ingritedaiane.github.io/EBAC/" target_="blank"> Clicking Here!</a>📌
+<a href="https://ingritedaiane.github.io/HealthyRecipes/" target_="blank"> Vizualize Clicando Aqui!</a>📌<br>
+<a href="https://ingritedaiane.github.io/HealthyRecipes/" target_="blank"> Clicking Here!</a>📌
